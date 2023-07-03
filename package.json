@@ -1,0 +1,22 @@
+{
+  "name": "lambda-2fa",
+  "version": "1.0.0",
+  "description": "Lambda back end for using Twilio Verify service",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lodge104/lambda-2fa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lodge104/lambda-2fa/issues"
+  },
+  "homepage": "https://github.com/Lodge104/lambda-2fa#readme",
+  "dependencies": {
+    "twilio": "^4.13.0"
+  }
+}
